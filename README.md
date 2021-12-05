@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kazutojahleel
+- 👋 Hi, I’m @maxjahleel
 - 👀 I’m interested in ... in programming in a scientific aspect
 - 🌱 I’m currently learning ... javascript
 - 💞️ I’m looking to collaborate on ... apps and software for windows and android
